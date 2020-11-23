@@ -1,7 +1,4 @@
--- Create the database
-CREATE DATABASE bootcampx;
--- Start using the database
-\c bootcampx;
+
 -- Write the CREATE TABLE statements for the students and a cohorts tables.
 -- cohorts
 CREATE TABLE cohorts (
